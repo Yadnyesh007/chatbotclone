@@ -1,0 +1,101 @@
+{
+  "Yadnyesh": {
+    "ba5f022f-fc6b-4546-bba3-281b2637ca07": {
+      "title": "New Chat",
+      "created_at": "2025-10-10T00:14:41.391011",
+      "updated_at": "2025-10-10T00:14:41.391016",
+      "messages": []
+    },
+    "3b57243f-ff0a-4771-b23f-fcdcdf34bbe4": {
+      "title": "New Chat",
+      "created_at": "2025-10-10T00:22:54.411911",
+      "updated_at": "2025-10-10T00:28:13.693503",
+      "messages": [
+        {
+          "role": "user",
+          "content": "summarize",
+          "timestamp": "2025-10-10T00:27:33.717997"
+        },
+        {
+          "role": "assistant",
+          "content": "You didn't provide any information for me to summarize. This conversation has just started. What would you like to talk about? I can summarize our conversation at the end if you'd like.",
+          "timestamp": "2025-10-10T00:28:13.693496"
+        }
+      ]
+    },
+    "240c5622-d41a-42e3-b18a-9b22960daff0": {
+      "title": "New Chat",
+      "created_at": "2025-10-11T19:32:22.227492",
+      "updated_at": "2025-10-11T19:32:22.227497",
+      "messages": []
+    },
+    "797f2019-e2b3-4c11-ad85-01044a808e7d": {
+      "title": "New Chat",
+      "created_at": "2025-10-13T19:49:06.031540",
+      "updated_at": "2025-10-13T19:50:13.308860",
+      "messages": [
+        {
+          "role": "user",
+          "content": "give me the sammary ",
+          "timestamp": "2025-10-13T19:49:30.679256"
+        },
+        {
+          "role": "assistant",
+          "content": "You didn't provide any text for me to summarize. Please share the text you would like me to summarize, and I'll be happy to assist you!",
+          "timestamp": "2025-10-13T19:50:13.308847"
+        }
+      ]
+    },
+    "6347422a-fd8e-4c60-8854-0ce840622c9b": {
+      "title": "New Chat",
+      "created_at": "2025-10-13T19:51:10.082664",
+      "updated_at": "2025-10-13T19:51:51.784310",
+      "messages": [
+        {
+          "role": "user",
+          "content": "what is the Informed Search with Domain Knowledge",
+          "timestamp": "2025-10-13T19:51:40.189520"
+        },
+        {
+          "role": "assistant",
+          "content": "Informed Search with Domain Knowledge is a type of search algorithm that incorporates domain-specific knowledge and heuristics to guide the search process. It's a variant of traditional search algorithms, such as breadth-first search (BFS) or depth-first search (DFS), which use domain knowledge to prune branches and focus on more promising areas of the search space.\n\nInformed Search with Domain Knowledge typically involves the following steps:\n\n1. **Domain knowledge incorporation**: The algorithm is provided with domain-specific knowledge, such as:\n\t* Problem constraints\n\t* Heuristics for evaluating candidate solutions\n\t* Probabilistic information about the search space (e.g., probability distributions over node values)\n2. **Initialization**: The algorithm initializes a data structure to represent the search space, such as a graph or tree.\n3. **Search traversal**: The algorithm traverses the search space using a combination of traditional search algorithms and domain-specific heuristics.\n\nSome common techniques used in Informed Search with Domain Knowledge include:\n\n1. **Heuristics**: Evaluating candidate solutions based on domain-specific criteria (e.g., minimizing the distance to a goal state).\n2. **Probability distributions**: Assigning probabilities to nodes or branches based on domain knowledge, to guide the search towards more promising areas.\n3. **Sampling methods**: Using probabilistic sampling methods to select nodes or branches to explore next.\n4. **Constraint propagation**: Propagating constraints and updating the data structure accordingly.\n\nInformed Search with Domain Knowledge is commonly used in problems that involve:\n\n1. **Scheduling**: Finding optimal schedules for resources, taking into account constraints like availability, capacity, and precedence.\n2. **Planning**: Generating plans to achieve a goal state, considering domain-specific knowledge about actions and their effects.\n3. **Resource allocation**: Assigning resources (e.g., personnel, equipment) to tasks or projects, under constraints like budget, capacity, and priority.\n\nSome popular algorithms that use Informed Search with Domain Knowledge include:\n\n1. **Iterated Local Search** (ILS): Combines local search and informed search techniques.\n2. **Bounded Constraint Satisfaction Problems** (BCSPs): Uses a combination of heuristics and constraint propagation to solve problems with bounded search spaces.\n3. **Genetic algorithms**: Inspired by the process of natural selection, genetic algorithms use probability distributions and sampling methods to guide the search.\n\nOverall, Informed Search with Domain Knowledge is a powerful approach for solving complex problems in various domains, where domain-specific knowledge can significantly improve the efficiency and effectiveness of the search process.",
+          "timestamp": "2025-10-13T19:51:51.784295"
+        }
+      ]
+    },
+    "809d7a0b-e883-4734-9ecd-22e165ea214b": {
+      "title": "New Chat",
+      "created_at": "2025-10-13T20:00:43.579759",
+      "updated_at": "2025-10-13T20:10:41.279873",
+      "messages": [
+        {
+          "role": "user",
+          "content": "what is the nformed Search with Domain Knowledge",
+          "timestamp": "2025-10-13T20:10:25.629146"
+        },
+        {
+          "role": "assistant",
+          "content": "Formed Search with Domain Knowledge, also known as Formed Search with Domain Information, is a search algorithm that uses domain knowledge to improve the relevance of search results. It's an extension of traditional search algorithms like boolean search or keyword-based search.\n\n**How it works:**\n\n1. **Domain knowledge representation**: The search system represents its domain knowledge using a graph or network structure, where entities (e.g., people, places, organizations) are connected by edges representing relationships between them.\n2. **Query analysis**: When a user submits a query, the system analyzes the query to identify relevant keywords and phrases that match the domain knowledge graph.\n3. **Query expansion**: The system expands the query by incorporating related concepts and entities from the domain knowledge graph, based on their semantic relationships with the original query.\n4. **Ranking**: The system ranks the search results using a combination of traditional ranking factors (e.g., relevance, frequency) and domain-specific factors (e.g., authority, relevance to specific domains).\n\n**Benefits:**\n\n1. **Improved accuracy**: Formed Search with Domain Knowledge can provide more accurate and relevant search results by leveraging domain expertise.\n2. **Increased efficiency**: By reducing the number of irrelevant results displayed, this approach can help users find what they're looking for faster.\n3. **Better user experience**: The system can be designed to provide personalized search suggestions based on the user's interests and preferences.\n\n**Examples:**\n\n1. Google's Knowledge Graph (KG) uses a similar approach to provide more accurate and informative search results by incorporating domain knowledge and relationships between entities.\n2. Microsoft Bing's Entity Search uses formed search with domain knowledge to improve search results for entity-based queries, such as finding information on specific people or organizations.\n\n**Challenges:**\n\n1. **Data quality**: The accuracy of the domain knowledge graph depends on the quality and comprehensiveness of the data used to build it.\n2. **Scalability**: As the size of the domain knowledge graph grows, so does the computational complexity of the search algorithm, which can be a challenge.\n3. **Balancing relevance and diversity**: The system must balance showing relevant results with providing a diverse set of options to keep users engaged.\n\nOverall, Formed Search with Domain Knowledge is an effective approach to improving search result accuracy and user experience by leveraging domain expertise.",
+          "timestamp": "2025-10-13T20:10:41.279856"
+        }
+      ]
+    },
+    "07e4be4a-68f9-48d3-bdd8-93dcc559adfc": {
+      "title": "New Chat",
+      "created_at": "2025-10-14T19:43:37.337609",
+      "updated_at": "2025-10-14T19:44:51.706648",
+      "messages": [
+        {
+          "role": "user",
+          "content": "Neural Interface Al Case Study",
+          "timestamp": "2025-10-14T19:44:30.368984"
+        },
+        {
+          "role": "assistant",
+          "content": "**Case Study: Neural Interface Applications**\n\nIn recent years, neural interfaces have gained significant attention for their potential to revolutionize the way we interact with technology. A neural interface is a system that enables direct communication between the brain and external devices, such as computers or prosthetic limbs.\n\n**Application 1: Brain-Computer Interfaces (BCIs) for Prosthetics**\n\nOne of the most promising applications of neural interfaces is in the development of BCIs for prosthetic limbs. For example, researchers at the University of California, Los Angeles (UCLA) developed a BCI that allows paraplegic patients to control a robotic arm with their thoughts.\n\n* **How it works:** The system uses electroencephalography (EEG) sensors to detect neural activity in the patient's brain. This activity is then translated into motor commands for the robotic arm.\n* **Benefits:** This technology has the potential to restore mobility and independence in individuals with severe paralysis, revolutionizing the lives of millions of people worldwide.\n\n**Application 2: Neural Implants for Neurological Disorders**\n\nAnother application of neural interfaces is the development of neural implants for treating neurological disorders such as Parkinson's disease, epilepsy, and depression. For example, researchers at Stanford University developed a neural implant that uses electrical stimulation to treat symptoms of depression.\n\n* **How it works:** The system consists of an electrode implanted in the brain, which detects changes in neural activity associated with depression. This information is then used to deliver targeted electrical stimulation to alleviate symptoms.\n* **Benefits:** This technology has the potential to provide new and more effective treatments for millions of people worldwide who suffer from depression.\n\n**Application 3: Neural Interfaces for Augmented Reality**\n\nNeural interfaces are also being explored for use in augmented reality (AR) applications. For example, researchers at Microsoft developed a neural interface that allows users to control AR experiences with their thoughts.\n\n* **How it works:** The system uses EEG sensors and machine learning algorithms to detect neural activity associated with the user's desires for interaction. This activity is then used to generate the desired AR experience.\n* **Benefits:** This technology has the potential to revolutionize the way we interact with virtual objects and experiences, enabling new forms of immersive entertainment and education.\n\n**Challenges and Future Directions**\n\nWhile neural interfaces hold great promise, there are several challenges that need to be addressed before they can become widely available. These include:\n\n* **Safety and efficacy:** Ensuring that neural interfaces are safe and effective for a wide range of users is crucial.\n* **Regulation:** The development and use of neural interfaces raise significant regulatory questions, including issues related to data protection, intellectual property, and liability.\n* **Standardization:** Developing standardized protocols for the development and deployment of neural interfaces will be essential for their widespread adoption.\n\n**Conclusion**\n\nNeural interfaces have the potential to revolutionize the way we interact with technology and treat neurological disorders. While there are significant challenges to overcome, researchers and engineers continue to push the boundaries of what is possible with these technologies. As we move forward, it will be important to prioritize safety, efficacy, regulation, and standardization in order to ensure that neural interfaces become a reality for millions of people worldwide.\n\n**References**\n\n1. Farzan, R., et al. (2019). Brain-Computer Interface for Prosthetic Limbs: A Review. IEEE Reviews in Biomedical Engineering, 12, 1-14.\n2. Guler, U. D., et al. (2020). Neural Implant for Treating Depression: A Systematic Review. Journal of Clinical Psychology, 76(1), 15-25.\n3. Lee, J. H., et al. (2019). Brain-Computer Interface for Augmented Reality: A Study on EEG-Based Control. IEEE Transactions on Neural Systems and Rehabilitation Engineering, 27(4), 651-662.\n\n**Image Credits**\n\n1. UCLA Department of Neurology\n2. Stanford University School of Medicine\n3. Microsoft Research\n\nNote: This is a sample case study and the references, images, and content are fictional.",
+          "timestamp": "2025-10-14T19:44:51.706632"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "john": {
+    "password": "hashed_password_here",
+    "email": "john@example.com",
+    "created_at": "2025-10-09T10:45:00"
+  },
+  "Yadnyesh": {
+    "password": "e2faa613efda57d17d7ff46884d6afcc06aad4053a297336a2b35cf1685626d6",
+    "email": "202401110023@mitaoe.ac.in",
+    "created_at": "2025-10-10T00:14:31.051063"
+  }
+}
